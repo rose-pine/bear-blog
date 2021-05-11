@@ -13,8 +13,8 @@
 
 ## Usage
 
-1. Navigate to [styles](https://bearblog.dev/dashboard/styles/)
-2. Paste contents of `*.css`
+1. Navigate to [styles](https://bearblog.dev/dashboard/styles/) on ʕ•ᴥ•ʔ Bear dashboard
+2. Paste contents of `rose-pine.css` (or other variant)
 3. Enjoy!
 
 ## Gallery
